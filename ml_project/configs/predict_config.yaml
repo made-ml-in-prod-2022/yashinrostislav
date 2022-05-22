@@ -1,4 +1,0 @@
-input_data_path: "data/raw/sample_for_pred.csv"
-model_path: "models/model.pkl"
-transformer_path: "models/transformer.pkl"
-output_preds_path: "models/preds.json"
