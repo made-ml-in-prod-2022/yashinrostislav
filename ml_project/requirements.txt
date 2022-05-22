@@ -7,7 +7,7 @@ anaconda-navigator==2.0.3
 anaconda-project @ file:///tmp/build/80754af9/anaconda-project_1621348054992/work
 anyio @ file:///opt/concourse/worker/volumes/live/64740ac7-3a9c-4fbb-6685-a51c4ff8b4ca/volume/anyio_1617783319350/work/dist
 app==0.0.1
-appdirs==1.4.4
+appdirs==1.4.4f
 applaunchservices==0.2.1
 appnope @ file:///opt/concourse/worker/volumes/live/5f13e5b3-5355-4541-5fc3-f08850c73cf9/volume/appnope_1606859448618/work
 appscript @ file:///opt/concourse/worker/volumes/live/82e8b4c7-2416-4d10-509e-144ca79d9b1d/volume/appscript_1611426996703/work
