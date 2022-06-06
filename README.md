@@ -1,2 +1,0 @@
-# yashinrostislav
-hw_1
