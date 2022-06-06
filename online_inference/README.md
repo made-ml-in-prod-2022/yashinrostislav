@@ -1,8 +1,21 @@
-Запуск пайплайна обучения с чтением параметров из конфига:
+## Проект online_inference
+
+Сборка докер-образа:
 ~~~
-python train_pipeline.py --cfg_path "configs/train_config_lr.yaml"
+docker build -t yashinrostislav/online_inference:v1 .
 ~~~
-Получение предсказаний из артефактов:
+
+Запуск докер-контейнера:
 ~~~
-python predict_pipeline.py --cfg_pat  "configs/predict_config.yaml"
+docker run --name online_inference_container -p 8000:8000 yashinrostislav/online_inference:v1
+~~~
+
+Пуш в докер-хаб:
+~~~
+docker push yashinrostislav/online_inference:v1
+~~~
+
+Пулл из докер-хаба:
+~~~
+docker pull yashinrostislav/online_inference:v1
 ~~~
