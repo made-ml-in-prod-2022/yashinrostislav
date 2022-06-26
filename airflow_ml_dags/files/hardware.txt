@@ -1,0 +1,76 @@
+cpu:
+                       Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, 2800 MHz
+                       Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, 2800 MHz
+                       Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, 2800 MHz
+                       Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, 2800 MHz
+                       Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, 2800 MHz
+                       Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, 3450 MHz
+                       Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, 2800 MHz
+                       Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, 2800 MHz
+keyboard:
+  /dev/input/event4    AT Translated Set 2 keyboard
+mouse:
+  /dev/input/mice      PS/2 Synaptics TouchPad
+  /dev/input/mice      DELL07FA:00 06CB:7E92 Mouse
+  /dev/input/mice      DELL07FA:00 06CB:7E92 Touchpad
+monitor:
+                       CV56F B156HAN LCD Monitor
+graphics card:
+                       nVidia GP107M [GeForce GTX 1050 Ti Mobile]
+                       Intel HD Graphics 630
+sound:
+                       Intel CM238 HD Audio Controller
+storage:
+                       Intel HM170/QM170 Chipset SATA Controller [AHCI Mode]
+network:
+  enp59s0              Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller
+  wlp60s0              Intel Wireless 8265 / 8275
+network interface:
+  wlp60s0              Ethernet network interface
+  enp59s0              Ethernet network interface
+  docker0              Ethernet network interface
+  lo                   Loopback network interface
+disk:
+  /dev/sdb             ST1000LM035-1RK1
+  /dev/sda             SAMSUNG SSD PM87
+partition:
+  /dev/sdb1            Partition
+  /dev/sdb2            Partition
+  /dev/sdb3            Partition
+  /dev/sdb4            Partition
+  /dev/sda1            Partition
+  /dev/sda2            Partition
+  /dev/sda3            Partition
+  /dev/sda4            Partition
+usb controller:
+                       Intel 100 Series/C230 Series Chipset Family USB 3.0 xHCI Controller
+bios:
+                       BIOS
+bridge:
+                       Intel 100 Series/C230 Series Chipset Family PCI Express Root Port #1
+                       Intel HM175 Chipset LPC/eSPI Controller
+                       Intel Xeon E3-1200 v5/E3-1500 v5/6th Gen Core Processor PCIe Controller (x16)
+                       Intel 100 Series/C230 Series Chipset Family PCI Express Root Port #6
+                       Intel Xeon E3-1200 v6/7th Gen Core Processor Host Bridge/DRAM Registers
+                       Intel 100 Series/C230 Series Chipset Family PCI Express Root Port #5
+hub:
+                       Linux Foundation 2.0 root hub
+                       Linux Foundation 3.0 root hub
+memory:
+                       Main Memory
+bluetooth:
+                       Intel Bluetooth Device
+unknown:
+                       FPU
+                       DMA controller
+                       PIC
+                       Keyboard controller
+                       Intel 100 Series/C230 Series Chipset Family Power Management Controller
+                       Intel 100 Series/C230 Series Chipset Family Serial IO I2C Controller #1
+                       Intel Xeon E3-1200 v5/E3-1500 v5/6th Gen Core Processor Thermal Subsystem
+                       Intel 100 Series/C230 Series Chipset Family MEI Controller #1
+                       Intel 100 Series/C230 Series Chipset Family Serial IO I2C Controller #0
+                       Intel 100 Series/C230 Series Chipset Family Thermal Subsystem
+                       Intel 100 Series/C230 Series Chipset Family SMBus
+                       Microdia Integrated_Webcam_HD
+                       Shenzhen Goodix Technology Co.,Ltd Fingerprint Reader
