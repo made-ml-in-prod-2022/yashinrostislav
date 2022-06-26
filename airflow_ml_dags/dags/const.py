@@ -9,5 +9,5 @@ DEFAULT_ARGS = {
 MODEL_DIR = "/data/model/{{ ds }}"
 RAW_DATA_DIR = "/data/raw/{{ ds }}"
 PREPROCESSED_DATA_DIR = "/data/preprocessed/{{ ds }}"
-VOLUME = "/home/rostislav/vcs/made-ml-in-prod-2021/yashinrostislav/airflow_ml_dags/data:/data"
+VOLUME = "/home/rostislav/vcs/made-ml-in-prod-2022/yashinrostislav/airflow_ml_dags/data:/data"
 
