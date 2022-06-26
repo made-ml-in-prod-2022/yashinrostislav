@@ -1,0 +1,8 @@
+   Static hostname: Yashinrostislav
+         Icon name: computer-laptop
+           Chassis: laptop
+        Machine ID: 638060b119d74b89be9b38d87713f09a
+           Boot ID: d3cf2b5903ef4e9ab9d16bcf5b03e29a
+  Operating System: Ubuntu 21.04
+            Kernel: Linux 5.11.0-18-generic
+      Architecture: x86-64
