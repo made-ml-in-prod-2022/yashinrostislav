@@ -65,7 +65,7 @@ def predict(data: List, features: List[str]) -> List[ModelResponse]:
 
 @app.get("/")
 async def app_root():
-    return "200"
+    return "Привет!"
 
 
 @app.post("/predict", response_model=List[ModelResponse])
